@@ -14,7 +14,7 @@ Header Navegável: Links de navegação com efeitos de espaçamento e tipografia
 Seção Hero: Destaque para o título principal (H1) e uma descrição convidativa para o usuário.
 
 
-Previa : <img width="604" height="386" alt="image" src="https://github.com/user-attachments/assets/f56a2fab-d652-432d-90be-082f3e987f62" />
+
 
 
 
@@ -25,3 +25,6 @@ Layout Inline-Block: Organização visual entre imagem ilustrativa e conteúdo t
 
 🎨 Design e Estilo
 O projeto utiliza uma paleta de cores profissional, combinando tons de azul escuro (#161A49) para seriedade e verde (#6FBF44) para botões de ação (Call to Action), transmitindo confiança e vitalidade.
+
+
+Previa : <img width="604" height="386" alt="image" src="https://github.com/user-attachments/assets/f56a2fab-d652-432d-90be-082f3e987f62" />
