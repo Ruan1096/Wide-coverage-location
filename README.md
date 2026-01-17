@@ -1,4 +1,4 @@
-🚀 Wide Coverage Location - Landing Page
+🚀 Wide coverage location  - Landing Page
 Este projeto é uma Landing Page moderna e responsiva desenvolvida para praticar a estruturação de layouts com HTML5 e a estilização precisa com CSS3. A página apresenta uma interface limpa, focada em serviços de mobilidade urbana ou compartilhamento de viagens.
 
 🛠 Tecnologias Utilizadas
